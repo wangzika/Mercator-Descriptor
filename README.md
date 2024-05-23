@@ -4,16 +4,15 @@
 
 Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a novel descriptor for loop closure detection and place recognition. This descriptor first uses a Mercator-like projection to generate a rotation-invariant descriptor from a frame of point clouds. Then, by constructing a database to store this new descriptor, it enables efficient matching between historical and current frames for loop closure detection.
 ![](https://github.com/582796566/Mercator-Descriptor/blob/main/workflow.jpg)
-## Examples
 
-# Examples 1
-![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF)
-![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF)
+
+## Examples 
+![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF)![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF)
 
 ![demo]()
 
 
-# Contributors
+## Contributors
 Wang Zhibo(e-mail:582796566@qq.com)
 
 
