@@ -7,13 +7,13 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 
 
 ## Examples 
-![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF)
-![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF)
+
 
 ![demo]()
 
+<img src="https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF" width="400" /> <img src="https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF" width="400" />
 
-## Developers:
+# Developers:
 Wang Zhibo(e-mail:582796566@qq.com)
 
 
