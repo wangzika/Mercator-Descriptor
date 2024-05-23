@@ -33,7 +33,7 @@ Wang Zhibo(e-mail:582796566@qq.com)
 
 # Credits
 
-We hereby recommend reading [SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) ,[FAST_LIO_LC](https://github.com/yanliang-wang/FAST_LIO_LC) and [STD](https://github.com/hku-mars/STD) for reference and thank them for making their work public.
+We hereby recommend reading [Scan Context](https://github.com/gisbi-kim/scancontext_tro) ,[FAST_LIO](https://github.com/hku-mars/FAST_LIO) ,[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM) and [STD](https://github.com/hku-mars/STD) for reference and thank them for making their work public.
 
 # License
 
