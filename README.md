@@ -7,7 +7,8 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 
 
 ## Examples 
-![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF)![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF)
+![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF, style="zoom:50%;")
+![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF)
 
 ![demo]()
 
