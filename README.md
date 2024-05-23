@@ -7,16 +7,23 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 
 
 ## Examples 
-![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF, style="zoom:50%;")
+![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B1.GIF)
 ![](https://github.com/582796566/Mercator-Descriptor/blob/main/%E5%9B%9E%E7%8E%AF%E6%A3%80%E6%B5%8B2.GIF)
 
 ![demo]()
 
 
-## Contributors
+## Developers:
 Wang Zhibo(e-mail:582796566@qq.com)
 
 
-## Credits
+# Credits
 
 We hereby recommend reading [SC-A-LOAM](https://github.com/gisbi-kim/SC-A-LOAM) ,[FAST_LIO_LC](https://github.com/yanliang-wang/FAST_LIO_LC) and [STD](https://github.com/hku-mars/STD) for reference and thank them for making their work public.
+
+# License
+
+The source code is released under GPLv3 license.
+
+I am constantly working on improving this code. For any technical issues or commercial use, please contact me(1193868236@qq.com).
+
