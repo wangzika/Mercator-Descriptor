@@ -18,6 +18,12 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/loop%20detection.GIF"  width="48%" loop/>
 </div>
 
+## ** Example-2: loop closure correction on our dataset**
+<div align="center">
+<img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_r.jpg"  width="100%" loop/>
+<img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_lc.jpg"  width="100%" loop/>
+</div>
+
 # Developers:
 Wang Zhibo(e-mail:582796566@qq.com)
 
