@@ -17,12 +17,16 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/loop%20detection1.GIF"  width="48%" loop/>
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/loop%20detection.GIF"  width="48%" loop/>
 </div>
-
+(a)
 ## ** Example-2: loop closure correction on our dataset**
 <div align="center">
-<img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_r.jpg"  width="100%" loop/>
-<img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_lc.jpg"  width="100%" loop/>
+<img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_r.jpg"  width="80%" loop/>
+<img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_lc.jpg"  width="80%" loop/>
 </div>
+(b)
+
+The campus dataset: a depicts an overview of the Backpack laser scanning system and the Campus dataset; b illustrates the
+comparative mapping results with loop closure integration and without loop closure integration
 
 # Developers:
 Wang Zhibo(e-mail:582796566@qq.com)
