@@ -25,8 +25,7 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_r.jpg"  width="80%" loop/>
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_lc.jpg"  width="80%" loop/>
 </div>
-The campus dataset: a depicts an overview of the Backpack laser scanning system and the Campus dataset; b illustrates the
-comparative mapping results with loop closure integration and without loop closure integration
+The figure depicts an overview of the Backpack laser scanning system and the campus dataset, as well as the resulting graphs with and without loop closure.
 
 # Developers:
 Wang Zhibo(e-mail:582796566@qq.com)
