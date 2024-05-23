@@ -12,13 +12,15 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 ![demo]()
 
 
-## ** Example-1: place recognition with KITTI Odometry dataset**
+### ** Example-1: place recognition with KITTI Odometry dataset**
 <div align="center">
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/loop%20detection1.GIF"  width="48%" loop/>
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/loop%20detection.GIF"  width="48%" loop/>
 </div>
 
-## ** Example-2: loop closure correction on our dataset**
+
+
+### ** Example-2: loop closure correction on our dataset**
 <div align="center">
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_r.jpg"  width="80%" loop/>
 <img src="https://github.com/wangzika/Mercator-Descriptor/blob/main/captum_lc.jpg"  width="80%" loop/>
