@@ -9,7 +9,7 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 ## Examples 
 
 
-video: [Youtube link]([https://www.youtube.com/watch?v=uXGNIHsfkAw])
+video: [Youtube link](https://www.youtube.com/watch?v=uXGNIHsfkAw)
 
 
 ### ** Example-1: place recognition with KITTI Odometry dataset**
