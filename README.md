@@ -9,7 +9,7 @@ Welcome to the Mercator Descriptor repository! The Mercator Descriptor is a nove
 ## Examples 
 
 
-![demo]()
+![demo](https://www.youtube.com/watch?v=uXGNIHsfkAw)
 
 
 ### ** Example-1: place recognition with KITTI Odometry dataset**
@@ -39,5 +39,5 @@ We hereby recommend reading [Scan Context](https://github.com/gisbi-kim/scancont
 
 The source code is released under GPLv3 license.
 
-I am constantly working on improving this code. For any technical issues or commercial use, please contact me(1193868236@qq.com).
+I am constantly working on improving this code. For any technical issues or commercial use, please contact me(582796566@qq.com).
 
