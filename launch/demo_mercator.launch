@@ -1,0 +1,26 @@
+<launch>
+
+  <arg name="rviz" default="true"/>
+  <arg name="seq_idx" default="00"/>
+
+  <rosparam command="load" file="$(find mct_detector)/config/config_mercator.yaml"/>
+  <node 
+    pkg="mct_detector" 
+    type="mercator_demo" 
+    name="mercator_demo" 
+    output="screen" 
+  />
+
+  <param name="lidar_path" type="string" value="/media/wzb/Elements/wangzika_date/kitti/date/dataset/sequences/$(arg seq_idx)/velodyne/"/>
+  <param name="pose_path" type="string" value="/media/wzb/Elements/wangzika_date/kitti/date/dataset/KITTI_poses/kitti$(arg seq_idx).txt"/>
+
+
+  <param name="output_timepath" type="string" value="/home/wzb/wangzika_code/mercator_ws/src/MCT/res_out/test/time/time-kitti$(arg seq_idx)_generated.txt"/>
+  <param name="output_posepath" type="string" value="/home/wzb/wangzika_code/mercator_ws/src/MCT/res_out/test/wzb_deepm_60_res-kitti$(arg seq_idx)_generated.txt"/>
+  <param name="seq_idx" type="string" value="$(arg seq_idx)"/>
+
+  <group if="$(arg rviz)">
+    <node launch-prefix="nice" pkg="rviz" type="rviz" name="rviz" args="-d $(find mct_detector)/rviz_cfg/demo.rviz"/>
+  </group>
+
+</launch>
