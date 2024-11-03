@@ -36,6 +36,16 @@ sudo apt install libgtsam-dev libgtsam-unstable-dev
 
 ## ** Prepare for the data**
 Since this repo does not implement any method (i.e., LOAM, LIO, etc) for solving the pose for registering the LiDAR scan. So, you have to prepare two set of data for reproducing our results, include: **1) the LiDAR point cloud data. 2) the point cloud registration pose.**
+```
+  <param name="lidar_path" type="string" value="/media/wzb/Elements/wangzika_date/kitti/date/dataset/sequences/$(arg seq_idx)/velodyne/"/>
+  <param name="pose_path" type="string" value="/media/wzb/Elements/wangzika_date/kitti/date/dataset/KITTI_poses/kitti$(arg seq_idx).txt"/>
+
+
+  <param name="output_timepath" type="string" value="/home/wzb/wangzika_code/mercator_ws/src/MCT/res_out/test/time/time-kitti$(arg seq_idx)_generated.txt"/>
+  <param name="output_posepath" type="string" value="/home/wzb/wangzika_code/mercator_ws/src/MCT/res_out/test/wzb_deepm_60_res-kitti$(arg seq_idx)_generated.txt"/>
+  <param name="seq_idx" type="string" value="$(arg seq_idx)"/>
+```
+
 
 ## Examples 
 
